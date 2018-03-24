@@ -10,7 +10,7 @@
 } */
 .miniRight {
   position: absolute;
-  right: 0;
+  right: 3%;
   visibility: hidden;
 
   width: 0;
@@ -22,7 +22,7 @@
 
 .miniLeft {
   position: absolute;
-  left: 0;
+  left: 92%;
   visibility: hidden;
 
   width: 0;
