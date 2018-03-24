@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* .fullwrap {
+  margin: auto;
+  height: 700px;
+  width: 700px;
+} */
+.miniRight {
+  position: absolute;
+  right: 0;
+  visibility: hidden;
+
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid rgb(177, 2, 82);
+}
+
+.miniLeft {
+  position: absolute;
+  left: 0;
+  visibility: hidden;
+
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid rgb(87, 236, 231);
+}
+.triangle {
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 100px solid green;
+}
+.squad {
+  width: 350px;
+  height: 350px;
+  background-color: purple;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
