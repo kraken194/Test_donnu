@@ -1,0 +1,28 @@
+.main-block {
+  position: absolute;
+  background-image: url(http://tutorial.promo.net.ua/images/js/setka3.png);
+  background-position: top left;
+  width: 400px;
+  height: 400px;
+  border: 1px solid black;
+}
+.blue, .red, .yellow {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+.blue {
+  background: blue;
+  top:40%;
+  left:40%;
+}
+.red {
+  background: red;
+  top: 30%;
+  left: 30%;
+}
+.yellow {
+  background:yellow;
+  bottom: 25%;
+  right: 25%;
+}

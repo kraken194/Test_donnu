@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+}
+body {
+	font-famili: Verdana, Tahoma, sans-serif;
+}
+
+.main {
+
+	width: 500px;
+	margin 50px;
+	b0rder: 1px solid #666;
+	padding-bottom: 10px;
+}
+
+.main-img 
+	width: 100%;
+}
+
+.h2 {
+	textalign:  center;
+	margin: 20xp;
+}
+
+p {
+	font-size: 14;
+	lne-height: 17px;
+	margin 10px;
+	textindent: 15px;
+}
+
+it {
+	font-style: italik;
+	color: brawn;
+}
