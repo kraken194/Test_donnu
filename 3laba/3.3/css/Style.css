@@ -1,0 +1,24 @@
+body{
+	background-image: url(../img/body-bg.png);
+	background-repeat: repeat-x;
+}
+.wrap{
+	margin: 50px;
+}
+.header{
+	background-image: url(../img/utp.png);
+	width: 950px;
+	height: 67px;
+}
+.button{
+	border-bottom: 2px solid #d1dee4;
+    width: 950px;
+    height: 29px;
+}
+.button button{
+	height: 29px;
+    border-width: 0;
+    background-color: #f3f6f7;
+    float: left;
+    margin-right: 2px;
+}

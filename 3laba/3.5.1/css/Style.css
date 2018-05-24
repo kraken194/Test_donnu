@@ -1,0 +1,17 @@
+table{
+	border-spacing: 1px;
+	width: 574px;
+	height: 224px;
+}
+.blue{
+	background-color: #a3cee9;
+	
+	color: white;
+}
+.values{
+	background-color: #d3e7f4;
+	text-align: center;	
+}
+.Qn{
+	text-align: center;
+}

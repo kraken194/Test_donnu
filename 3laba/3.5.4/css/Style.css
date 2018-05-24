@@ -1,0 +1,66 @@
+table{
+	border-spacing: 0px;
+	margin: 15px;
+    float: left;
+    text-align: center;
+    border: 3px solid #dddddd;
+    width: 300px;
+    height: 500px;
+}
+
+.t1{
+    border: 3px solid #16a086;
+    border-bottom: 10px solid #14927a;
+}
+.t2{
+	border: 3px solid #f39c11;
+    border-bottom: 10px solid #cf8007;
+}
+.t3{
+	border: 3px solid #c1392b;
+    border-bottom: 10px solid #a12f24;
+}
+
+.t1 .price, .t1 .size , .t1 button{
+	background-color: #16a086; 
+}
+.t2 .price, .t2 .size , .t2 button{
+	background-color: #f39c11; 
+}
+.t3 .price, .t3 .size , .t3 button{
+	background-color: #c1392b; 
+}
+.t1 .size{
+	border-bottom: 10px solid #13937a;
+}
+.t2 .size{
+	border-bottom: 10px solid #cc810a;
+}
+.t3 .size{
+	border-bottom: 10px solid #a12f24;
+}
+.price, .size {
+	font-size: 35px;
+	color: white; 
+	font-weight: bold; 
+}
+.size{
+	font-size: 30px;
+	border-bottom: 10px solid #13937a;
+}
+.info{
+	color: #88879f;
+}
+span{
+	font-weight: bold; 
+}
+button{
+	width: 97px;
+	height: 35px;
+	background-color: green;
+	border: 0px;
+	color: white;
+}
+.footer{
+	border-top: 1px dotted #88879f;
+}
